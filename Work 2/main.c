@@ -23,4 +23,5 @@ int main ()
     else
         printf ("d < 0, KORNEI NET\n");
 	return 0;
+// +
 }
